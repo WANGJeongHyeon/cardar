@@ -21,7 +21,7 @@
 - 개요 
 
 - 캐릭터 이름 : 제임스 올리버 왓슨
-![94991449-flat-cartoon-man-vector-icon-fat-man-icon-illustration](https://user-images.githubusercontent.com/84564086/120946329-0b53a980-c777-11eb-946b-7b26a6f0ef17.jpg)
+
 
 
 - 캐릭터 특징 : 33세 영국의 고대 동물 연구소 LAA 수석연구원 
