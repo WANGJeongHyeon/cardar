@@ -45,7 +45,7 @@
 
 - 캐릭터 이름 : 제임스 올리버 왓슨
 
-![james](https://user-images.githubusercontent.com/84564086/120946524-c3815200-c777-11eb-9e45-f379e9d8b692.jpg)
+![james2](https://user-images.githubusercontent.com/84564086/120948444-29bca380-c77d-11eb-8a65-2efd1de6d56d.jpg)
 
 - 캐릭터 특징 : 33세 영국의 고대 동물 연구소 LAA 수석연구원 
 
